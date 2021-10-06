@@ -73,7 +73,7 @@ def create_repo( student ):
             
         # Add teachers as members with admin rights
         student_project.members.create({'user_id': getenv("gl_id_me"), 'access_level':MAINTAINER_ACCESS})
-        #student_project.members.create({'user_id': getenv("gl_id_td3"), 'access_level':MAINTAINER_ACCESS})
+        student_project.members.create({'user_id': getenv("gl_id_td3"), 'access_level':MAINTAINER_ACCESS})
 
         print(f'{name} OK')
         return f'{name} OK'
