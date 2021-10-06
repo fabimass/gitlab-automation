@@ -1,0 +1,24 @@
+2021-10-05 22:33:13.329476 - gomez ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:13.872952 - bernigola ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:14.180572 - veraza ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:14.492530 - paolucci ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:14.793031 - casas ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:15.084362 - laime ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:15.379834 - pregelj ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:15.687165 - zanabria ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:15.994565 - suppa ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:16.370635 - acosta ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:16.662416 - dagnino ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:16.982118 - banda ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:17.283151 - borys ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:17.577878 - lopezluna ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:17.857886 - duarte ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:18.171366 - sievert ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:18.463456 - marolla ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:18.777711 - lopez ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:21.089378 - canete-burin OK 
+2021-10-05 22:33:21.402267 - age ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:21.710153 - almada ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:22.022881 - romero ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:22.313684 - sanahuja-gladstein ERROR: 401: 401 Unauthorized 
+2021-10-05 22:33:22.691453 - agusti ERROR: 401: 401 Unauthorized 
